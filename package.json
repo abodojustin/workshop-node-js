@@ -1,0 +1,20 @@
+{
+  "name": "workshop-node-js",
+  "version": "1.0.0",
+  "description": "nodejs workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abodojustin/workshop-node-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mondb"
+  ],
+  "author": "abodo justin",
+  "license": "ISC"
+}
